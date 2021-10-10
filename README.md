@@ -1,5 +1,4 @@
-
-![ME](./img/hello_world.gif)
+<img src="./img/hello_world.gif" width=80% style="margin:auto;">
 
 <br>
 
