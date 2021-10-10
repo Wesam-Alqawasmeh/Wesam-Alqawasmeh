@@ -1,4 +1,4 @@
-<img src="./img/hello_world.gif" width=80% style="margin:auto;">
+<img src="./img/hello_world.gif" width=80% >
 
 <br>
 
