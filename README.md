@@ -5,8 +5,8 @@
 ---
 # ABOUT ME
 
-- 💬 A 23 years old passionate **Full Stack Web Developer**, with a Civil Engineering background 👷.
-- 🌱 I’m currently learning Full Stack Web Development with **LTUC-ASAC**. 
+- 💬 Passionate **Full Stack Web Developer**.
+- 🌱 I’m currently working as a Software Engineer at **SociumTech**. 
 - 📫 How to reach me: alqawasmehwesam@gmail.com 
 
 <br>
